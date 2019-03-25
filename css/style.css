@@ -30,10 +30,9 @@ p {
 }
 
 #showcase img {
-  width: 40%;
-  margin-left: 80px;
-  margin-bottom: 100px;
-  margin-top: 90px;
+  width: 80%;
+  margin-top: 10px;
+  margin-bottom: 50px;
 }
 
 #showcase .showcase-right {
@@ -61,19 +60,13 @@ p {
 }
 #info1 img {
   width: 50%;
-  margin-left: 60px;
-  margin-top: 60px;
+  margin-left: 90px;
+  margin-top: 50px;
 }
 #info2 {
   margin: 20px 0 60px 0;
 }
-#contact {
-  background: url(../img/architecture-black-and-white-building-2018238.jpg);
-  padding: 40px;
-  color: #fff;
-  border-top: #333 7px solid;
-  border-bottom: #333 7px solid;
-}
+
 footer {
   padding: 30px;
 }
